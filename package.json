@@ -1,0 +1,14 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
